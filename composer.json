@@ -1,5 +1,5 @@
 {
-    "name": "firegento/extendedimport",
+    "name": "amintechltd/extendedimport",
     "license": "OSL-3.0",
     "type": "magento2-module",
     "description": "Extended Import Features (ported from AvS_FastSimpleImport)",
