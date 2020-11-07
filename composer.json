@@ -3,9 +3,6 @@
     "license": "OSL-3.0",
     "type": "magento2-module",
     "description": "Extended Import Features (ported from AvS_FastSimpleImport)",
-    "require": {
-        "php": "^7.3|^7.4"
-    },
 
     "authors": [
         {
