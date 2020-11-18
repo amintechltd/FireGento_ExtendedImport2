@@ -1,9 +1,9 @@
 {
-    "name": "amintechltd/extendedimport",
+    "name": "amintechltd/module-extendedimport",
     "license": "OSL-3.0",
     "type": "magento2-module",
     "description": "Extended Import Features (ported from AvS_FastSimpleImport)",
-
+    "version": "1.0.1"
     "authors": [
         {
             "name": "Fabian Schmengler",
